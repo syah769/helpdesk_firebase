@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android Project\\helpdesk-firebase\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl-rSI\\values-sl-rSI.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Syahril\\.gradle\\caches\\transforms-1\\files-1.1\\android.joda-2.9.9.1.aar\\48cd351e308ab5013901b0bd03029276\\res\\values-sl-rSI\\values-sl-rSI.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HelpDesk</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="btn_login">Login</string>
+    <string name="already_registered">Already registered! Login Me.</string>
+    <string name="sign_up_now">Not a member? Sign up now.</string>
+    <string name="show_all">Show All Ticket</string>
+    <string name="show_pending">Show Pending Ticket</string>
+    <string name="show_success">Show Success Ticket</string>
+    <string name="show_logout">Log Out</string>
+    <string name="pendinemsg">Do you really want mark it as Pending??</string>
+</resources>
